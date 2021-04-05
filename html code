@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Aitor Iglesias Web</title>
+    <link href="styles/style.css" rel="stylesheet" type="text/css">
+  </head>
+  <body> 
+    <img src="images/guitarra.jpg" alt="Mi imagen de prueba">
+    <h1>Aitor Iglesias</h1>  
+    <p>
+        <strong>Opciones</strong>
+    </p>
+    <ul>
+        <li>Bio</li>
+        <li>Discografia</li>
+        <li><a href="https://open.spotify.com/artist/4ODLEvNKUyGcn7uJK7d1LF?si=iVUpdM4wTUONGNxfpnfy3g">Streaming</a></li>
+        <li>Contacto</li>
+    </ul>
+    <p>
+        Aitor Iglesias 2021 ©
+    </p>
+    
+  </body>
+</html>
