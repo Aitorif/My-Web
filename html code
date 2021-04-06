@@ -8,6 +8,7 @@
   <body> 
     <img src="images/guitarra.jpg" alt="Mi imagen de prueba">
     <h1>Aitor Iglesias</h1>  
+    <h2></h2>
     <p>
         <strong>Opciones</strong>
     </p>
@@ -20,6 +21,7 @@
     <p>
         Aitor Iglesias 2021 ©
     </p>
-    
+    <button>Cambiar de usuario</button>
+    <script src="scripts/main.js"></script>
   </body>
 </html>
